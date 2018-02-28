@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{FC84AE5A-A46E-409C-A43E-2D3D020180C7}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyExpenses/Controllers/BaseController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyExpenses/Content/cover.css">
     <Files>
       <File FileName="MyExpenses/Controllers/HomeController.cs" Line="1" Column="1" />
       <File FileName="MyExpenses/Repository/Constant.cs" Line="6" Column="9" />
@@ -13,11 +13,13 @@
       <File FileName="MyExpenses/Models/Entry.cs" Line="13" Column="9" />
       <File FileName="MyExpenses/Models/DebitEntry.cs" Line="16" Column="1" />
       <File FileName="MyExpenses/Models/CreditEntry.cs" Line="20" Column="10" />
-      <File FileName="MyExpenses/Web.config" Line="28" Column="6" />
+      <File FileName="MyExpenses/Web.config" Line="16" Column="12" />
       <File FileName="MyExpenses/Models/Bank.cs" Line="14" Column="3" />
       <File FileName="MyExpenses/Models/BankAccount.cs" Line="27" Column="3" />
       <File FileName="MyExpenses/Models/CreditCard.cs" Line="4" Column="42" />
-      <File FileName="MyExpenses/Controllers/BaseController.cs" Line="99" Column="6" />
+      <File FileName="MyExpenses/Controllers/BaseController.cs" Line="18" Column="9" />
+      <File FileName="MyExpenses/Views/Shared/_Layout.cshtml" Line="35" Column="54" />
+      <File FileName="MyExpenses/Content/cover.css" Line="113" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
