@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{FC84AE5A-A46E-409C-A43E-2D3D020180C7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyExpenses/Controllers/BaseController.cs">
+    <Files>
+      <File FileName="MyExpenses/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="MyExpenses/Repository/Constant.cs" Line="6" Column="9" />
+      <File FileName="MyExpenses/Repository/ConnectionString.cs" Line="9" Column="1" />
+      <File FileName="MyExpenses/Repository/IRepository.cs" Line="6" Column="2" />
+      <File FileName="MyExpenses/Repository/SqlRepository.cs" Line="4" Column="25" />
+      <File FileName="MyExpenses/Models/BaseEntity.cs" Line="28" Column="6" />
+      <File FileName="MyExpenses/Models/NamedEntity.cs" Line="10" Column="4" />
+      <File FileName="MyExpenses/Models/Cluster.cs" Line="4" Column="39" />
+      <File FileName="MyExpenses/Models/Category.cs" Line="6" Column="20" />
+      <File FileName="MyExpenses/Models/Entry.cs" Line="13" Column="9" />
+      <File FileName="MyExpenses/Models/DebitEntry.cs" Line="16" Column="1" />
+      <File FileName="MyExpenses/Models/CreditEntry.cs" Line="20" Column="10" />
+      <File FileName="MyExpenses/Web.config" Line="28" Column="6" />
+      <File FileName="MyExpenses/Models/Bank.cs" Line="14" Column="3" />
+      <File FileName="MyExpenses/Models/BankAccount.cs" Line="27" Column="3" />
+      <File FileName="MyExpenses/Models/CreditCard.cs" Line="4" Column="42" />
+      <File FileName="MyExpenses/Controllers/BaseController.cs" Line="99" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyExpenses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
